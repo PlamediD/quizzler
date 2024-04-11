@@ -1,16 +1,4 @@
 # quizzler
 
-A new Flutter project.
+Quizzler is a fun and interactive quiz app built with Flutter. Test your knowledge with a variety of true/false questions while enjoying a sleek and intuitive user interface. Keep track of your score and challenge yourself to beat your previous best. Get ready to learn and have fun with Quizzler!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
